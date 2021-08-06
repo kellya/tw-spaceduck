@@ -44,7 +44,7 @@ color.recurring=rgb115
 color.scheduled=on rgb012
 color.until=
 color.blocked=white on color237
-color.blocking=color98
+color.blocking=white on color98
 
 # Project
 color.project.none=
