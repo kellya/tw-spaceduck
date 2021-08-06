@@ -70,9 +70,9 @@ color.burndown.pending=on color38
 color.burndown.started=on color172
 
 # Report: history
-color.history.add=color0 on rgb015
-color.history.delete=color0 on rgb035
-color.history.done=color0 on rgb025
+color.history.add=black on color78
+color.history.done=black on color38
+color.history.delete=black on color172
 
 # Report: summary
 color.summary.background=on color234
