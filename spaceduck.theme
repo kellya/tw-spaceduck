@@ -60,7 +60,7 @@ color.tag.none=
 color.tagged=color246
 
 # Due
-color.due.today=color38
+color.due.today=color38 on black
 color.due=color249
 color.overdue=color166
 
